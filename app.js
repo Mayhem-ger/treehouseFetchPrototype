@@ -39,7 +39,7 @@ function generateImage(data) {
 }
 
 function fetchBreedImage() {
-  const breed = select.value
+  const breed = select.value;
 }
 
 
